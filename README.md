@@ -305,7 +305,8 @@ https://user-images.githubusercontent.com/25352428/198535011-fa54cd89-83c3-4b80-
 
 <!-- AWARD -->
 ## Award :trophy: 
-Honorable mention by Nreal for the first milestone. We are waiting for the announcement of winners.
+- Honorable mention by Nreal for the first milestone.
+- Honorable mention by Nreal for the last milestone of the challenge.
 <!-- add photos of swag gadget -->
 
 <!-- LICENSE -->
